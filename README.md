@@ -1,4 +1,4 @@
-Fitness Astra - Gym Website
+**Fitness Astra - Gym Website**
 
 Fitness Astra is a basic gym website designed to showcase gym features, trainers, and facilities. It provides a simple and responsive interface for users to explore gym services and register online.
 
